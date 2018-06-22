@@ -1,0 +1,29 @@
+.Edit {
+    width: 900px;
+    margin: 0 auto;
+    label {
+        width: 70px;
+        margin-right: 5px;
+        font-size: 14px;
+        font-weight: 400;
+        align-items: center;
+        line-height: 3;
+    }
+    .name-section {
+        margin-bottom: 10px;
+        display: flex;
+    }
+    .Comment-section {
+        margin-bottom: 10px;
+        display: flex;
+    }
+    .Email-section {
+        margin-bottom: 10px;
+        display: flex;
+    }
+    .footer {
+        width: 285px;
+        display: flex;
+        justify-content: flex-end;
+    }
+}
